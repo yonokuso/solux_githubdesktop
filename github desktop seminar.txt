@@ -1,1 +1,3 @@
 github desktop seminar
+
+reset 1
